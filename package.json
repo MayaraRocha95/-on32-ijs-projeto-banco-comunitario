@@ -1,0 +1,27 @@
+{
+  "name": "on32-ijs-projeto-banco-comunitario-aluna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "ts-node src/server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MayaraRocha95/on32-ijs-projeto-banco-comunitario-aluna.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MayaraRocha95/on32-ijs-projeto-banco-comunitario-aluna/issues"
+  },
+  "homepage": "https://github.com/MayaraRocha95/on32-ijs-projeto-banco-comunitario-aluna#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "ts-node": "^10.9.2"
+  }
+}
